@@ -1,0 +1,55 @@
+*{
+    /*background: black;*/
+    font-family: monospace;
+    font-size: medium;
+}
+#temperature,#weight,#distance{
+    text-align: center;
+}
+#home{
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+    margin: 10px;
+
+}
+button,input{
+    padding: em;
+    color: black;
+    background: ;
+}
+header{
+    color: black;
+}
+#tmp,#wgt,#dst{
+    padding: 2em;
+    background-color: white;
+    text-align: center;
+    justify-content: baseline;
+    
+}
+figure{
+    background-color: white;
+    color: white;
+    justify-content: center;
+}
+figcaption{
+    color: black;
+    background-color: white;
+}
+section,fieldset{
+    padding: 2em;
+}
+legend,label{
+    color: black;
+    font-size: larger;
+}
+aside{
+    background-color: white;
+    font-size: medium;
+}
+fieldset{
+    justify-content: center;
+    text-align: center;
+    
+}
